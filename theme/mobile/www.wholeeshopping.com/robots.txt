@@ -1,0 +1,24 @@
+User-agent: Googlebot
+
+Disallow: /reviews/
+Disallow: /views/
+Disallow: /service/
+Disallow: /payment
+Disallow: /home.html?categoryId=*
+Disallow: /*?t=Theme&p=*
+Disallow: /*?t=ProductDetail&p=*
+Disallow: /*?t=EditorsPicks&p=*
+Disallow: /categories?category=*
+Disallow: /order/
+
+User-agent: Googlebot-Mobile
+
+Disallow: /views/
+Disallow: /cart
+Disallow: /payment
+Disallow: /search?q=*
+Disallow: /account
+
+#Block Baidu
+User-agent: Baiduspider
+Disallow: /
