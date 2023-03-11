@@ -1,2 +1,2 @@
-# hambren
-online shopping center
+# the-school
+School Management system
