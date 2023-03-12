@@ -15,46 +15,42 @@ class Home extends Controller
         $this->smarty->display("home.tpl");
     }
 
-    /**
-     * @throws SmartyException
-     */
-    function forgot_password() {
-        $this->smarty->display("forgot-password.tpl");
-    }
+
+
 
     function about_us() {
-
+        $this->smarty->display("home/about_us.tpl");
     }
 
     function contact_us() {
-
+        $this->smarty->display("home/contact_us.tpl");
     }
 
     function privacy_policy() {
-
+        $this->smarty->display("home/privacy_policy.tpl");
     }
 
     function order_tracking() {
-
+        $this->smarty->display("home/order_tracking.tpl");
     }
 
     function payment_methods() {
-
+        $this->smarty->display("home/payment_methods.tpl");
     }
 
     function return_policy() {
-
+        $this->smarty->display("home/return_policy.tpl");
     }
 
     function refund_policy() {
-
+        $this->smarty->display("home/refund_policy.tpl");
     }
 
     function shipping_policy() {
-
+        $this->smarty->display("home/shipping_policy.tpl");
     }
 
     function terms_of_service() {
-
+        $this->smarty->display("home/terms_of_service.tpl");
     }
 }

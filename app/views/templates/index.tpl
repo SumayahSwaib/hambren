@@ -259,32 +259,32 @@
                                 <h3 class="footer_footer_heading__kOWXu">CUSTOMER CENTER</h3>
                                 <ul class="footer_footer_detail_content__FLazs">
                                     <li>
-                                        <a target="_blank" class="footer_hand__iJCm8" href="/payment-methods">Payment Methods &amp; Tax</a>
+                                        <a  class="footer_hand__iJCm8" href="/payment-methods">Payment Methods &amp; Tax</a>
                                     </li>
                                     <li>
-                                        <a target="_blank" class="footer_hand__iJCm8" href="/faq">
+                                        <a  class="footer_hand__iJCm8" href="/faq">
                                             <!-- --> <!-- -->FAQ
                                         </a>
                                     </li>
-                                    <li><a target="_blank" class="footer_hand__iJCm8" href="/return-policy">Return
+                                    <li><a  class="footer_hand__iJCm8" href="/return-policy">Return
                                             Policy</a></li>
-                                    <li><a target="_blank" class="footer_hand__iJCm8" href="/refund_policy">Refund
+                                    <li><a  class="footer_hand__iJCm8" href="/refund_policy">Refund
                                             Policy</a></li>
-                                    <li><a target="_blank" class="footer_hand__iJCm8" href="/shipping_policy">Shipping
+                                    <li><a  class="footer_hand__iJCm8" href="/shipping_policy">Shipping
                                             Policy</a></li>
-                                    <li><a target="_blank" class="footer_hand__iJCm8"
+                                    <li><a  class="footer_hand__iJCm8"
                                            href="/terms_of_service">Terms of Service</a></li>
                                 </ul>
                             </section>
                             <section>
                                 <h3 class="footer_footer_heading__kOWXu">COMPANY INFO</h3>
                                 <ul class="footer_footer_detail_content__FLazs">
-                                    <li><a target="_blank" class="footer_hand__iJCm8" href="/about_us">About
+                                    <li><a  class="footer_hand__iJCm8" href="/about_us">About
                                             Us</a></li>
 
-                                    <li><a target="_blank" class="footer_hand__iJCm8" href="/privacy_policy">Privacy
+                                    <li><a  class="footer_hand__iJCm8" href="/privacy_policy">Privacy
                                             Policy</a></li>
-                                    <li><a target="_blank" class="footer_hand__iJCm8" href="/contact_us">Contact
+                                    <li><a  class="footer_hand__iJCm8" href="/contact_us">Contact
                                             Us</a></li>
 
                                 </ul>
@@ -319,16 +319,16 @@
                                 <div class="footer_medium_list_container___zUSG">
                                     <h3 class="footer_footer_heading__kOWXu">FIND US ON</h3>
                                     <div class="footer_medium_list__ZAPWF">
-                                        <a href="#" target="_blank" rel="noreferrer">
+                                        <a href="#"  rel="noreferrer">
                                             <i class="iconfont wholeePC_Facebook"></i>
                                         </a>
-                                        <a  href="https://www.instagram.com/hambrenofficial/" target="_blank" rel="noreferrer">
+                                        <a  href="https://www.instagram.com/hambrenofficial/"  rel="noreferrer">
                                             <i class="iconfont wholeePC_Instagram"></i>
                                         </a>
-                                        <a href="https://www.tiktok.com/@hambrenofficial" target="_blank" rel="noreferrer">
+                                        <a href="https://www.tiktok.com/@hambrenofficial"  rel="noreferrer">
                                             <i class="iconfont wholeePC_TikTok"></i>
                                         </a>
-                                        <a  href="#" target="_blank" rel="noreferrer">
+                                        <a  href="#"  rel="noreferrer">
                                             <i class="iconfont wholeePC_Youtube"></i>
                                         </a>
                                     </div>
@@ -336,10 +336,10 @@
                                 <div class="footer_downloads_container__qv11J">
                                     <h3 class="footer_footer_heading__kOWXu">Download App</h3>
                                     <div class="footer_downloads__ZLqAR">
-                                        <a href="#" target="_blank"rel="noreferrer">
+                                        <a href="#" rel="noreferrer">
                                             <img src="https://setup-platform-new.wholeecdn.com/assets/fb0558527052ff4b209ca6b6a04bcfac_CMS_IMG_1665932384038_312x96.png"  alt=""/>
                                         </a>
-                                        <a href="#" target="_blank" rel="noreferrer">
+                                        <a href="#"  rel="noreferrer">
                                             <img  src="https://setup-platform-new.wholeecdn.com/assets/406795c754796671ecc1d24a1a8ff2ed_CMS_IMG_1665932372673_312x96.png"
                                                     alt=""/>
                                         </a>
