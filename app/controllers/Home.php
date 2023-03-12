@@ -12,10 +12,7 @@ class Home extends Controller
      */
     function index()
     {
-        if (! $this->session->data('user'))
-            $this->smarty->display("login.tpl");
-        else
-            $this->redirect("/dashboard");
+        $this->smarty->display("home.tpl");
     }
 
     /**
