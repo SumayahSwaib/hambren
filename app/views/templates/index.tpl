@@ -258,12 +258,12 @@
                             <section>
                                 <h3 class="footer_footer_heading__kOWXu">CUSTOMER CENTER</h3>
                                 <ul class="footer_footer_detail_content__FLazs">
-                                    <li><a target="_blank" class="footer_hand__iJCm8" href="/payment">Payment
-                                            Methods &amp; Tax</a>
+                                    <li>
+                                        <a target="_blank" class="footer_hand__iJCm8" href="/payment-methods">Payment Methods &amp; Tax</a>
                                     </li>
                                     <li>
                                         <a target="_blank" class="footer_hand__iJCm8" href="/faq">
-                                            Klarna<!-- --> <!-- -->FAQ
+                                            <!-- --> <!-- -->FAQ
                                         </a>
                                     </li>
                                     <li><a target="_blank" class="footer_hand__iJCm8" href="/return-policy">Return

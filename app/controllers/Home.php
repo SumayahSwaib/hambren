@@ -22,8 +22,39 @@ class Home extends Controller
         $this->smarty->display("forgot-password.tpl");
     }
 
+    function about_us() {
 
+    }
 
+    function contact_us() {
 
+    }
 
+    function privacy_policy() {
+
+    }
+
+    function order_tracking() {
+
+    }
+
+    function payment_methods() {
+
+    }
+
+    function return_policy() {
+
+    }
+
+    function refund_policy() {
+
+    }
+
+    function shipping_policy() {
+
+    }
+
+    function terms_of_service() {
+
+    }
 }
