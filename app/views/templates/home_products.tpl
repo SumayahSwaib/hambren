@@ -44,10 +44,10 @@
                                 <div style="cursor: pointer;">
                                     <div class="Card_mediaWrapper__uX1xJ">
                                         <div class="Card_media__Z2HUC">
-                     <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
-                        <img alt="Keep Warm In Winter Toilet Seat Cushion Mat Bathroom Toilet Seat Cushion With Handle Thick And Soft Washable Closetool Warm Accessories" src="https://multimedia-image2.wholeecdn.com/product-center-main/2022/11/21/52-t-8a49462b-6288-4abf-ac49-8f022a7afa1e_350x350.jpg" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain; background-size: contain; background-image: none; background-position: center center; filter: none;">
-                        <noscript></noscript>
-                     </span>
+                                     <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+                                        <img alt="Keep Warm In Winter Toilet Seat Cushion Mat Bathroom Toilet Seat Cushion With Handle Thick And Soft Washable Closetool Warm Accessories" src="https://multimedia-image2.wholeecdn.com/product-center-main/2022/11/21/52-t-8a49462b-6288-4abf-ac49-8f022a7afa1e_350x350.jpg" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain; background-size: contain; background-image: none; background-position: center center; filter: none;">
+                                        <noscript></noscript>
+                                     </span>
                                         </div>
                                         <!-- <img src="https://app-image.wholeecdn.com/market_ad/fc/fcd9182af5d9de973c1cec28621a56ea.png" alt="productMark" class="Card_productMark__vCiQQ">   -->
                                     </div>

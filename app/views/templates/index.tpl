@@ -338,5 +338,6 @@
                     class="iconfont wholeeicon-close LuckyDrawFloatIcon_close_icon__00_3a"></i></div>
     </div>
 </div>
+{block name="scripts"}{/block}
 </body>
 </html>

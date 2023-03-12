@@ -16,8 +16,8 @@ $routes['shipping_policy']                   =               "Home/shipping_poli
 $routes['terms_of_service']                  =               "Home/terms_of_service";
 $routes['search']                            =               "Home/search";
 
-//$routes['f']                               =               "Home/f";
-
 /*
- * Website
+ * Product Items
  */
+
+$routes['products/item']                     =                "Products/item";
