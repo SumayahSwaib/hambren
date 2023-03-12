@@ -14,6 +14,7 @@ $routes['return-policy']                     =               "Home/return_policy
 $routes['refund_policy']                     =               "Home/refund_policy";
 $routes['shipping_policy']                   =               "Home/shipping_policy";
 $routes['terms_of_service']                  =               "Home/terms_of_service";
+$routes['search']                            =               "Home/search";
 
 //$routes['f']                               =               "Home/f";
 

@@ -12,7 +12,7 @@
     <link rel="preconnect" href="https://www.google-analytics.com"/>
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-71464937-34"></script>
     <meta charSet="utf-8"/>
-    <title>Hambren - Wholesale Prices Without zero Risk </title>
+    <title>Hambren - Prices Without zero Risk </title>
     <link rel="canonical" href="index.html"/>
     <meta name="format-detection" content="telephone=no,email=no,date=no,address=no"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"/>
@@ -30,55 +30,11 @@
     <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT"/>
     <meta http-equiv="pragma" content="no-cache"/>
     <meta http-equiv="x-dns-prefetch-control" content="on"/>
-    {*    <meta name="google-site-verification" content="yUAOUUF7qg7xU5uXLp_zo3-Ie_7iMuBaghKsCo4gVmY"/>*}
-    {*    <meta name="p:domain_verify" content="288a21b83e7be492d34e793155933a5d"/>*}
+
     {literal}
-        <script>window.dataLayer = window.dataLayer || [];
 
-            function gtag() {
-                window.dataLayer.push(arguments);
-            }
-
-            gtag('js', new Date());
-            gtag('config', 'UA-71464937-34', {'transport_type': 'beacon'});
-            gtag('config', 'G-2M4V7E1EP3', {'transport_type': 'beacon'});
-        </script>
-        <script>
-            (function (a, b, c, d, e, f) {
-                if (a.Tracker) return;
-                a.TrackerQueue = a.TrackerQueue || [];
-
-                function fn(v) {
-                    return function () {
-                        a.TrackerQueue.push([v, ...arguments])
-                    }
-                }
-
-                a.Tracker = {[b]: fn(b), [c]: fn(c), [d]: fn(d), [e]: fn(e), [f]: fn(f)}
-            })(window, 'init', 'log', 'page', 'setData', 'getData');
-        </script>
-        <script type="application/ld+json">
-            {
-                "@context": "http://schema.org",
-                "@type": "WebSite",
-                "url": "https://www.hambren.com/",
-                "potentialAction": {
-                    "@type": "SearchAction",
-                    "target": "https://www.hambren.com/searchresult?q={search_term_string}",
-                    "query-input": "required name=search_term_string"
-                }
-            }
-        </script>
-        <script type="application/ld+json">
-            {
-                "@context": "https://schema.org",
-                "@type": "Organization",
-                "url": "https://www.hambren.com",
-                "logo": "https://setup-platform.wholeecdn.com/assets/6753a7d07065b58195e2cae3d1cdcf76_M-icon_84x84.png"
-            }
-        </script>
     {/literal}
-    <meta name="next-head-count" content="33"/>
+
 
     <link rel="stylesheet" href="/assets/css/b076.css" data-n-g=""/>
 
@@ -155,10 +111,14 @@
                 <div class="NavBar_navBarRight__SqB0u">
                     <div>
                         <div class="Keyword_searchPage__ivls_">
-                            <div class="Keyword_searchInput__k0QJn">
-                                <input type="text" maxLength="99" placeholder="What are you looking for?" autoComplete="off"
-                                       value=""/>
-                                <div class="Keyword_clearIcon__7nrAX"><i class="iconfont wholeeicon-search"></i></div>
+                            <div class="">
+                                <form action="/search" method="get" class="Keyword_searchInput__k0QJn">
+                                    <input type="text" maxLength="99" placeholder="What are you looking for?" autoComplete="off" {if isset($smarty.get.q)}value="{$smarty.get.q}"{/if} name="q"/>
+                                    <button class="Keyword_clearIcon__7nrAX">
+                                        <i class="iconfont wholeeicon-search"></i>
+                                    </button>
+                                </form>
+
                             </div>
                         </div>
                     </div>

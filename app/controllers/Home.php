@@ -53,4 +53,8 @@ class Home extends Controller
     function terms_of_service() {
         $this->smarty->display("home/terms_of_service.tpl");
     }
+
+    function search() {
+        $this->smarty->display("home/search.tpl");
+    }
 }
