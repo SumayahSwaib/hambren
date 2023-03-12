@@ -193,7 +193,7 @@
                                     </span>
                             <span class="Reviews_text__7w3_9">What is Hambren?</span>
                         </div>
-                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Wholee:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">Wholee is an online shopping app that sources directly from global suppliers and aims to eliminate pricing differences by providing wholesale prices to consumers.
+                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Hambren:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">Wholee is an online shopping app that sources directly from global suppliers and aims to eliminate pricing differences by providing wholesale prices to consumers.
                                     At Hambren, it becomes much easier to buy directly from manufacturers and enjoy high-quality products at a lower price.</span>
                         </div>
                     </div>
@@ -232,7 +232,7 @@
                                     </span>
                             <span class="Reviews_text__7w3_9">How does Wholee ensure the quality of the products?</span>
                         </div>
-                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Wholee:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">Wholee adheres to a strict quality control process to ensure products are free from defects before shipment, and we conduct overall quality control for all products. We have a wide variety of standards for different categories in terms of color, material, style, quality, specification, etc.</span></div>
+                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Hambren:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">Wholee adheres to a strict quality control process to ensure products are free from defects before shipment, and we conduct overall quality control for all products. We have a wide variety of standards for different categories in terms of color, material, style, quality, specification, etc.</span></div>
                     </div>
                 </li>
                 <li class="Reviews_swiperItem__kUQ2q">
@@ -269,7 +269,7 @@
                                     </span>
                             <span class="Reviews_text__7w3_9">Can I return something I bought?</span>
                         </div>
-                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Wholee:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">You can always return an item within 30 days of receiving it. The shipping is free on your first return for any order. We will process your refund as soon as we receive your returned item(s).</span></div>
+                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Hambren:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">You can always return an item within 30 days of receiving it. The shipping is free on your first return for any order. We will process your refund as soon as we receive your returned item(s).</span></div>
                     </div>
                 </li>
                 <li class="Reviews_swiperItem__kUQ2q">
@@ -306,7 +306,7 @@
                                     </span>
                             <span class="Reviews_text__7w3_9">How much does shipping cost?</span>
                         </div>
-                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Wholee:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">We offer flat-rate shipping on all orders. There is a fixed shipping fee for each country for unlimited items in one order. Here are the shipping fees for different countries:
+                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Hambren:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">We offer flat-rate shipping on all orders. There is a fixed shipping fee for each country for unlimited items in one order. Here are the shipping fees for different countries:
                                     UK: £2.99
                                     US: $2.99
                                     DE: €3.99
@@ -351,7 +351,7 @@
                                     </span>
                             <span class="Reviews_text__7w3_9">What payment methods do you accept? Is the payment safe?</span>
                         </div>
-                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Wholee:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">We accept PayPal, Klarna, debit and credit card for payment. You can rest assured that all transactions are secure and encrypted. Whenever you notice suspicious charges or activity on your account, please do not hesitate to notify us.</span></div>
+                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Hambren:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">We accept PayPal, Klarna, debit and credit card for payment. You can rest assured that all transactions are secure and encrypted. Whenever you notice suspicious charges or activity on your account, please do not hesitate to notify us.</span></div>
                     </div>
                 </li>
                 <li class="Reviews_swiperItem__kUQ2q">
@@ -388,8 +388,8 @@
                                     </span>
                             <span class="Reviews_text__7w3_9">What is Wholee?</span>
                         </div>
-                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Wholee:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">Wholee is an online shopping app that sources directly from global suppliers and aims to eliminate pricing differences by providing wholesale prices to consumers.
-                                    At Wholee, it becomes much easier to buy directly from manufacturers and enjoy high-quality products at a lower price.</span>
+                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Hambren:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">Hambren is an online shopping app that sources directly from global suppliers and aims to eliminate pricing differences by providing wholesale prices to consumers.
+                                    At Hambren, it becomes much easier to buy directly from manufacturers and enjoy high-quality products at a lower price.</span>
                         </div>
                     </div>
                 </li>
@@ -427,7 +427,7 @@
                                     </span>
                             <span class="Reviews_text__7w3_9">How does Wholee ensure the quality of the products?</span>
                         </div>
-                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Wholee:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">Wholee adheres to a strict quality control process to ensure products are free from defects before shipment, and we conduct overall quality control for all products. We have a wide variety of standards for different categories in terms of color, material, style, quality, specification, etc.</span></div>
+                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Hambren:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">Wholee adheres to a strict quality control process to ensure products are free from defects before shipment, and we conduct overall quality control for all products. We have a wide variety of standards for different categories in terms of color, material, style, quality, specification, etc.</span></div>
                     </div>
                 </li>
                 <li class="Reviews_swiperItem__kUQ2q">
@@ -464,7 +464,7 @@
                                     </span>
                             <span class="Reviews_text__7w3_9">Can I return something I bought?</span>
                         </div>
-                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Wholee:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">You can always return an item within 30 days of receiving it. The shipping is free on your first return for any order. We will process your refund as soon as we receive your returned item(s).</span></div>
+                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Hambren:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">You can always return an item within 30 days of receiving it. The shipping is free on your first return for any order. We will process your refund as soon as we receive your returned item(s).</span></div>
                     </div>
                 </li>
                 <li class="Reviews_swiperItem__kUQ2q">
@@ -501,7 +501,7 @@
                                     </span>
                             <span class="Reviews_text__7w3_9">How much does shipping cost?</span>
                         </div>
-                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Wholee:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">We offer flat-rate shipping on all orders. There is a fixed shipping fee for each country for unlimited items in one order. Here are the shipping fees for different countries:
+                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Hambren:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">We offer flat-rate shipping on all orders. There is a fixed shipping fee for each country for unlimited items in one order. Here are the shipping fees for different countries:
                                     UK: £2.99
                                     US: $2.99
                                     DE: €3.99
@@ -546,7 +546,7 @@
                                     </span>
                             <span class="Reviews_text__7w3_9">What payment methods do you accept? Is the payment safe?</span>
                         </div>
-                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Wholee:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">We accept PayPal, Klarna, debit and credit card for payment. You can rest assured that all transactions are secure and encrypted. Whenever you notice suspicious charges or activity on your account, please do not hesitate to notify us.</span></div>
+                        <div class="Reviews_term__18JxE"><span class="Reviews_userName__mzmhS">Hambren:</span> <span class="Reviews_text__7w3_9 Reviews_text_answer__wiFkm">We accept PayPal, Klarna, debit and credit card for payment. You can rest assured that all transactions are secure and encrypted. Whenever you notice suspicious charges or activity on your account, please do not hesitate to notify us.</span></div>
                     </div>
                 </li>
             </ul>
